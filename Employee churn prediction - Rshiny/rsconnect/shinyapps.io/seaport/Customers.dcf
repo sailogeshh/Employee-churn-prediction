@@ -1,0 +1,12 @@
+name: Customers
+title: Customers
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 401810
+bundleId: 1540048
+url: https://seaport.shinyapps.io/Customers/
+when: 1534492333.73994
+asMultiple: FALSE
+asStatic: FALSE

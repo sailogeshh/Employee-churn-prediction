@@ -1,0 +1,13 @@
+name: Employee
+title: Employee
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 401817
+bundleId: 2106758
+url: https://seaport.shinyapps.io/Employee/
+when: 1558714186.32994
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|demo.R|HR DATA.csv|New folder/Employee Churn Analysis.docx|New folder/HR DATA..txt|New folder/server.R|New folder/ui.R
